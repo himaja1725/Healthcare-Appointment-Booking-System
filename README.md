@@ -51,4 +51,3 @@ You can register via UI or insert manually via MongoDB:
 
 ---
 
-For issues, contact your developer or check the backend logs.
